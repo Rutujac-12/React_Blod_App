@@ -8,7 +8,7 @@ import Card6 from "./card6"
 function CardContainer () {
   return (
      <>
-    <div>
+    <div className="cards-container">
    <Card1/>
    <Card2/>
    <Card3/>
